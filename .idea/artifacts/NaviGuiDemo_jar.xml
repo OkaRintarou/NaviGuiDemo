@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NaviGuiDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NaviGuiDemo_jar</output-path>
+    <root id="archive" name="NaviGuiDemo.jar">
+      <element id="module-output" name="NaviGuiDemo" />
+    </root>
+  </artifact>
+</component>
